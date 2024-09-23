@@ -13,4 +13,4 @@ let areatriangulo= function(base, altura, ){
     return base * altura /2}
 console.log(areatriangulo(732,533,2))
 
-let nome=parseInt(prompt(3,4,5)) 
+let nome=parseInt(prompt(3+4)) 
