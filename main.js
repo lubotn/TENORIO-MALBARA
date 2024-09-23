@@ -13,5 +13,10 @@ let areatriangulo= function(base, altura, ){
     return base * altura /2}
 console.log(areatriangulo(732,533,2))
 
-let nome=parseInt(prompt(3,4)) 
-document.write(soma)
+let a = parseInt (prompt("primeiro valor"))
+let b = parseInt (prompt("segundo valor"))
+let c = parseInt (prompt("terceiro valor"))
+function media (a,b,c){
+    return ((a+b+c)/3);
+}
+document.write(media(a, b, c))
