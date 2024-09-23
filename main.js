@@ -1,6 +1,6 @@
 // let nomeUsuario='Lucas, Gabriel';
 // alert (nomeUsuario);
-function soma(num1, num2){
-    return num1 + num2 ;
+function multiplicação(num1, num2){
+    return num1 * num2 ;
 }
-console.log(soma(5,25));
+console.log(multiplicação(5,25));
