@@ -1,5 +1,5 @@
 // let nomeUsuario='Lucas, Gabriel';
 // alert (nomeUsuario);
-function soma(num 1, num 2){
-    return num 1 + num 2;
+function soma(num1, num2){
+    return num1 + num2 ;
 }
