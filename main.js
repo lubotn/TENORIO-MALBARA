@@ -1,9 +1,9 @@
 // let nomeUsuario='Lucas, Gabriel';
 // alert (nomeUsuario);
-function multiplicação(num1, num2){
-    return num1 * num2 ;
+function areaquadrado(lado){
+    return lado**;
 }
-console.log(multiplicação(5,5));
+console.log(areaquadrado(5));
 function soma(num1, num2){
     return num1 + num2 ;
 }
