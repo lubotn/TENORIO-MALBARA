@@ -14,4 +14,4 @@ let areatriangulo= function(base, altura, ){
 console.log(areatriangulo(732,533,2))
 
 let nome=parseInt(prompt(3,4)) 
-document.write(soma 3+4)
+document.write(soma)
