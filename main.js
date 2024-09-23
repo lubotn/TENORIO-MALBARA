@@ -9,7 +9,8 @@ function areaquadrado(lado){
     return lado **2;
 }
 console.log(areaquadrado(5));
-let areatriangulo= function(base, altura, divisao){
-    return base * altura / divisao}
+let areatriangulo= function(base, altura, ){
+    return base * altura /2}
 console.log(areatriangulo(732,533,2))
 
+let nome=parseInt(prompt(3,4,5)) 
