@@ -30,5 +30,5 @@ console.log(i); console.log(estados[i]);
 
 for(let i=0;i<estados.length; i++){
         console.log (estados[i]);
-        const element = array [index];index
+
 }
