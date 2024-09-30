@@ -25,10 +25,14 @@ let estados=['acre','amapa','amazonas','para','rondonia','tocantins','alagoas','
 let i =0;
 while(i<estados.length){
 console.log(i); console.log(estados[i]);
-
 }
-
 for(let i=0;i<estados.length; i++){
         console.log (estados[i]);
-
+}
+let idade
+if (idade>17){
+        console.log('ja pode dirigir');
+}
+else{
+        console.log('ilegal dirigir');
 }
