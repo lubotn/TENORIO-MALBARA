@@ -22,3 +22,4 @@
 // document.write(media(a, b, c))
 
 let estados=['acre','amapa','amazonas','para','rondonia','tocantins','alagoas','bahia','ceara','maranhao','paraiba','pernambuco','piaui','rio grande do norte','sergipe','distrito federal','goias','mato grosso','mato grosso do sul','espirito santo','minas gerais','rio de janeiro','sao paulo','parana','santa catarina','rio grande do sul','roraima']
+let i =0
