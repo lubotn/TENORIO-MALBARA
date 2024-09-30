@@ -25,6 +25,10 @@ let estados=['acre','amapa','amazonas','para','rondonia','tocantins','alagoas','
 let i =0;
 while(i<estados.length.){
 console.log(i); console.log(estados[i]);
-i=i+1;
+
 }
 
+for(let i=0;i<estados.length; i++){
+        console.log (estados[i]);
+        const element = array [index];index
+}
