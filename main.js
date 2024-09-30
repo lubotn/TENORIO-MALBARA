@@ -21,15 +21,15 @@
 // }
 // document.write(media(a, b, c))
 
-let estados=['acre','amapa','amazonas','para','rondonia','tocantins','alagoas','bahia','ceara','maranhao','paraiba','pernambuco','piaui','rio grande do norte','sergipe','distrito federal','goias','mato grosso','mato grosso do sul','espirito santo','minas gerais','rio de janeiro','sao paulo','parana','santa catarina','rio grande do sul','roraima']
-let i =0;
-while(i<estados.length){
-console.log(i); console.log(estados[i]);
-}
-for(let i=0;i<estados.length; i++){
-        console.log (estados[i]);
-}
-let idade
+// let estados=['acre','amapa','amazonas','para','rondonia','tocantins','alagoas','bahia','ceara','maranhao','paraiba','pernambuco','piaui','rio grande do norte','sergipe','distrito federal','goias','mato grosso','mato grosso do sul','espirito santo','minas gerais','rio de janeiro','sao paulo','parana','santa catarina','rio grande do sul','roraima']
+// let i =0;
+// while(i<estados.length){
+// console.log(i); console.log(estados[i]);
+// }
+// for(let i=0;i<estados.length; i++){
+//         console.log (estados[i]);
+// }
+let idade=parseInt(prompt('qual é sua idade'))
 if (idade>17){
         console.log('ja pode dirigir');
 }
