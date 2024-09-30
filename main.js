@@ -21,4 +21,4 @@
 // }
 // document.write(media(a, b, c))
 
-let estados=['acre','a mapa','amazonas','para','rondonia','tocantins','alagoas','bahia','ceara','maranhao','paraiba','pernambuco','piaui','rio grande do norte','sergipe','distrito federal','goais','mato grosso','mato grosso do sul','espirito santo','minas gerais','rio de janeiro','sao paulo']
+let estados=['acre','amapa','amazonas','para','rondonia','tocantins','alagoas','bahia','ceara','maranhao','paraiba','pernambuco','piaui','rio grande do norte','sergipe','distrito federal','goais','mato grosso','mato grosso do sul','espirito santo','minas gerais','rio de janeiro','sao paulo']
